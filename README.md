@@ -3,4 +3,4 @@
 zmienić kod w jakikolwiek sposób
 
 # []
-zmieniam sam kod 
+zmieniam sam kod w nowej gałęzi
